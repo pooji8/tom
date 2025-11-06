@@ -1,0 +1,20 @@
+KFC = {
+  "Dish": "Burger",
+  "Price": 6.99,
+  "Quantity": 23
+}
+print(KFC["Dish"])
+
+BurgerKing = {
+    "Dish" : "Zinger Burger",
+    "Price" : 7.99,
+    "Quantity" : 20
+}
+print(BurgerKing)
+
+FavouriteChicken = {
+    "Dish" : "Fillet Burger",
+    "Price" : 4.09,
+    "Quantity": 15
+}
+print(FavouriteChicken)
